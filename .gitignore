@@ -1,6 +1,3 @@
-dist/
-es/
-lib/
 node_modules/
 generated-docs/
 npm-debug.log
